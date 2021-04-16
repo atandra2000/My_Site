@@ -90,6 +90,7 @@ h3 {
 p {
   width: 50%;
   margin: auto;
+  font-size: 1.35rem;
 }
 
 hr {
@@ -141,6 +142,7 @@ a {
   font-family: 'Montserrat', sans-serif;
   color: #40514E;
   text-decoration: none;
+  font-size: 1.45rem;
 }
 
 a:hover {
@@ -149,6 +151,6 @@ a:hover {
 
 .copy {
   color: #EAF6F6;
-  font-size: 0.90rem;
+  font-size: 0.80rem;
   margin-top: 20px;
 }
